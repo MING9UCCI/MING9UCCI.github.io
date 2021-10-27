@@ -1,0 +1,11 @@
+Gem '(~' is not installed
+
+You have requested to uninstall the gem:
+	jekyll-4.2.1
+
+jekyll-feed-0.15.1 depends on jekyll (>= 3.7, < 5.0)
+jekyll-seo-tag-2.7.1 depends on jekyll (>= 3.8, < 5.0)
+jekyll-watch-2.2.1 depends on jekyll (>= 3.6, < 5.0, development)
+minima-2.5.1 depends on jekyll (>= 3.5, < 5.0)
+If you remove this gem, these dependencies will not be met.
+Continue with Uninstall? [yN]  

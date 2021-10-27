@@ -1,0 +1,24 @@
+name: Minflix
+title: Minflix | mgs_min
+description: 그냥 내 사이트
+tags:
+  - blog
+  - netlify
+  - github.io
+  - github
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: jheeminwoo@gmail.com
+# See: https://disqus.com/
+disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: jheeminwoo@gmail.com

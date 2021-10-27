@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Minflix!!"
 date:   2021-10-22 10:51:13 +0900
 categories: jekyll update
 ---
