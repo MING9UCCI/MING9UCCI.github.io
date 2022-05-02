@@ -6,7 +6,7 @@ subtitle: Cause i have no idea.
 description: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
 image: https://res.cloudinary.com/potoon/image/upload/c_scale,h_399,w_760/v1635208654/my%20own%20site/542841_uqymfc.jpg
 optimized_image: https://res.cloudinary.com/potoon/image/upload/c_scale,h_200,w_380/v1635208654/my%20own%20site/542841_uqymfc.jpg
-category: no category
+category: no title
 tags:
   - no idea
   - just post

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to my page"
+date:   2021-10-22 10:51:13 +0900
+categories: jekyll update
+---
+<p>그냥 만들어보고 싶어서 만들어본 깃허브페이지 아무 포스트나 올릴 예정<br>거의 낙서장처럼 사용할거같은데 암튼 그냥 막 올려봄</p>
+### 사이트 소개
+* **Home**은 메인으로 돌아가기
+* **About**은 나에 대한 소개
+* **Contact**는 이메일을 통해 연락
+
+<p>그냥 별거 없음😅</p>
